@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\bin\Debug\WindowsMusicPlayer.exe.config
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\bin\Debug\WindowsMusicPlayer.exe
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\bin\Debug\WindowsMusicPlayer.pdb
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\WindowsMusicPlayer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\WindowsMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\WindowsMusicPlayer.MusicPlayerApp.resources
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\WindowsMusicPlayer.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\WindowsMusicPlayer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\WindowsMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\WindowsMusicPlayer.exe
+C:\Users\User\source\repos\WindowsMusicPlayer\WindowsMusicPlayer\obj\Debug\WindowsMusicPlayer.pdb
